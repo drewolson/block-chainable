@@ -16,8 +16,6 @@ module BlockChainable
       end
       
       klass_instance.instance_eval(&block)
-      
-      klass_instance
     end
     
     def inherited(klass)
