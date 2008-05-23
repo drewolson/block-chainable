@@ -1,3 +1,8 @@
+=== 0.1.1 / 2008-05-23
+
+* 1 minor enhancement
+  * Classes instantiated through blocks (using start) return the result of executing the block
+
 === 0.1.0 / 2008-04-08
 
 * 1 major enhancement
