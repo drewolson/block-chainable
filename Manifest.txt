@@ -1,0 +1,15 @@
+History.txt
+Manifest.txt
+README.txt
+Rakefile
+example/roster.rb
+example/roster_dsl.rb
+example/student.rb
+lib/block_chainable.rb
+spec/bar.rb
+spec/block_chainable_spec.rb
+spec/foo.rb
+test/bar.rb
+test/baz.rb
+test/foo.rb
+test/test_block_chainable.rb

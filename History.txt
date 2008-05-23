@@ -1,0 +1,22 @@
+=== 0.1.0 / 2008-04-08
+
+* 1 major enhancement
+  * Methods with implicit blocks with be propagated correctly to parent scopes
+
+=== 0.0.3 / 2008-03-27
+
+* 1 minor enhancement
+  * Classes inheriting from a parent class that mixes in BlockChainable will gain all functionality
+
+=== 0.0.2 / 2008-03-07
+
+* 1 minor enhancement
+  * Classes instantiated through blocks (using start) return the instance of the class for chaining
+
+=== 0.0.1 / 2008-02-24
+
+* 2 major enhancements
+  * Block instantiation of classes
+  * Method calls within block instantiated classes can jump "up-scope" to parent classes
+* 1 minor bug
+  * Stack trace on errors should be simplified
