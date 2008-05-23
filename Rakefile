@@ -10,7 +10,7 @@ Hoe.new('block-chainable', '0.1.0') do |p|
   p.rubyforge_name = 'block-chainable'
   p.author = 'Drew Olson'
   p.email = 'olsonas@gmail.com'
-  # p.summary = 'FIX'
+  p.summary = 'tool for building DSLs with blocks'
   p.description = p.paragraphs_of('README.txt', 2..5).join("\n\n")
   p.url = "http://block-chainable.rubyforge.org"
   p.changes = p.paragraphs_of('History.txt', 0..1).join("\n\n")
