@@ -6,7 +6,7 @@ require 'need'
 require 'spec/rake/spectask'
 need{'./lib/block_chainable.rb'}
 
-Hoe.new('block-chainable', '0.1.0') do |p|
+Hoe.new('block-chainable', '0.1.1') do |p|
   p.rubyforge_name = 'block-chainable'
   p.author = 'Drew Olson'
   p.email = 'olsonas@gmail.com'

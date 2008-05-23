@@ -1,6 +1,7 @@
 = BlockChainable
 
 * http://block-chainable.rubyforge.org
+* source - http://github.com/dfg59/block-chainable/tree/master
 
 == DESCRIPTION:
 
@@ -161,7 +162,8 @@ you to assert values within the blocks as well as calling any other methods from
 
 == INSTALL:
 
-* sudo gem install block-chainable
+* rubyforge - sudo gem install block-chainable
+* github - sudo gem install dfg59-block-chainable --source=http://gems.github.com
 
 == LICENSE:
 
